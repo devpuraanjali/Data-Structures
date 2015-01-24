@@ -5,6 +5,6 @@ package com.devpura.anjali.codingbat;
  */
 public class HelloAnjali {
     public static void main(String[] args) {
-        System.out.println("ANjali is Home");
+        System.out.println("ANjali is Home ");
     }
 }
