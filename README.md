@@ -1,2 +1,2 @@
 # coding-practise
-This repositiory is to store programs written during coding 
+Hey This repositiory is to store programs written during coding 
